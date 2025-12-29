@@ -41,6 +41,7 @@ namespace PaginationFlow.Repository
             };
         }
 
+
         public T? GetById(int id) => _dbSet.Find(id);
         public void Add(T entity) => _dbSet.Add(entity);
         public void Update(T entity) => _dbSet.Update(entity);
