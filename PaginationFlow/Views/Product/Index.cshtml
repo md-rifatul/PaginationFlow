@@ -1,0 +1,15 @@
+﻿@model PagedResult<Product>
+
+<table>
+    @foreach (var item in Model.Items)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+        </tr>
+    }
+</table>
+
+<div>
+    Page @Model.PageNumber
+</div>

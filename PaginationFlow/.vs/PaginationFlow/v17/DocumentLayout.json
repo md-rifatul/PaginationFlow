@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rifat\\Desktop\\PaginationFlow\\PaginationFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F380B53-929D-4112-A4D4-ECB1BCA9FC5A}|PaginationFlow.csproj|c:\\users\\rifat\\desktop\\paginationflow\\paginationflow\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F380B53-929D-4112-A4D4-ECB1BCA9FC5A}|PaginationFlow.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F380B53-929D-4112-A4D4-ECB1BCA9FC5A}|PaginationFlow.csproj|c:\\users\\rifat\\desktop\\paginationflow\\paginationflow\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F380B53-929D-4112-A4D4-ECB1BCA9FC5A}|PaginationFlow.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F380B53-929D-4112-A4D4-ECB1BCA9FC5A}|PaginationFlow.csproj|c:\\users\\rifat\\desktop\\paginationflow\\paginationflow\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F380B53-929D-4112-A4D4-ECB1BCA9FC5A}|PaginationFlow.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F380B53-929D-4112-A4D4-ECB1BCA9FC5A}|PaginationFlow.csproj|c:\\users\\rifat\\desktop\\paginationflow\\paginationflow\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F380B53-929D-4112-A4D4-ECB1BCA9FC5A}|PaginationFlow.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F380B53-929D-4112-A4D4-ECB1BCA9FC5A}|PaginationFlow.csproj|c:\\users\\rifat\\desktop\\paginationflow\\paginationflow\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F380B53-929D-4112-A4D4-ECB1BCA9FC5A}|PaginationFlow.csproj|solutionrelative:repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F380B53-929D-4112-A4D4-ECB1BCA9FC5A}|PaginationFlow.csproj|c:\\users\\rifat\\desktop\\paginationflow\\paginationflow\\pagination\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F380B53-929D-4112-A4D4-ECB1BCA9FC5A}|PaginationFlow.csproj|solutionrelative:pagination\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\PaginationFlow\\PaginationFlow\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\PaginationFlow\\PaginationFlow\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T18:48:14.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\PaginationFlow\\PaginationFlow\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\PaginationFlow\\PaginationFlow\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:46:29.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\PaginationFlow\\PaginationFlow\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\PaginationFlow\\PaginationFlow\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:45:38.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\PaginationFlow\\PaginationFlow\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\PaginationFlow\\PaginationFlow\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository\\Repository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:43:55.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\PaginationFlow\\PaginationFlow\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\PaginationFlow\\PaginationFlow\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:43:17.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\rifat\\Desktop\\PaginationFlow\\PaginationFlow\\Pagination\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Pagination\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\rifat\\Desktop\\PaginationFlow\\PaginationFlow\\Pagination\\PagedResult.cs",
+              "RelativeToolTip": "Pagination\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:42:04.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
